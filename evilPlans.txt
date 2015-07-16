@@ -1,0 +1,63 @@
+STILL IMAGES
+- start screen image (+ shatter effect?)
+- ending image?
+
+CHARACTER SPRITES
+- main char
+- boss char
+- few regular enemy types
+- some kind of messy animation
+
+BACKGROUND/FOREGROUND ART
+- mansion wall backgrounds
+- mansion floor
+- decorative objects
+- 
+
+MUSIC
+- title music
+- level music(one for each level?)
+- boss battle music
+
+SOUND EFFECTS
+- weapon firing
+- reload
+- bullet impact
+- jump?
+- walk/run?
+
+VOICE ACTING?
+- main char
+- boss char
+- regular enemy
+
+GUI
+- main menu
+- player health bar
+- enemy health bar?
+- boss healt bar
+
+STORYTELLING
+- visual novel style text box with char face?
+- just subtitles?
+
+SCENES
+- start screen
+- level 1 - 3
+- ending screen
+
+CODE
+- char controls
+- change scenes somehow
+- weapon aim
+- weapon fire
+- weapon impact detect
+- weapon enemy hit detect
+- classes for enemies and player (hit points, dmg...)
+- player dies
+- powerup random drops?
+- weapon change powerup? invincible powerup?
+- healt drops?
+- way to lock player controls on certain parts (visual novel style, boss dialog)?
+
+
